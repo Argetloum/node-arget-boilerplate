@@ -18,7 +18,7 @@ And some usefull libs :
 
 ####1. Clone the repository and execute the shell
 
-		git clone git://github.com/robrighter/node-boilerplate.git mynewproject
+		git clone https://github.com/Argetloum/Node-custom-boilerplate.git mynewproject
 		cd mynewproject
 		./initproject.sh
 
