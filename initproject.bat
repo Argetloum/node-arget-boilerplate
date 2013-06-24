@@ -2,6 +2,7 @@ REM @echo off
 echo "Creating necessary folders..."
 mkdir .\static
 mkdir .\static\images
+mkdir .\static\less
 mkdir .\static\css
 mkdir .\static\js
 mkdir .\views
