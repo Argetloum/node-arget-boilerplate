@@ -18,7 +18,7 @@ Regardless to Node Boilerplate, we use the same dependencies, but adding some li
 
 ##Start a project
 
-####1. Clone the repository and execute the shell
+**1. Clone the repository and execute the shell**
 
 	git clone https://github.com/Argetloum/node-arget-boilerplate.git mynewproject
 	cd mynewproject
@@ -26,11 +26,11 @@ Regardless to Node Boilerplate, we use the same dependencies, but adding some li
 
 This will copy down all of the boilerplate files, organize them appropriately and init a fresh new git repository within which you can build your next big thing.
 
-####2. Do npm install to install the dependencies
+**2. Do npm install to install the dependencies**
 
 	sudo npm install
 
-####3. Run the boilerplate template app:
+**3. Run the boilerplate template app**
 
 	node server.js
 
