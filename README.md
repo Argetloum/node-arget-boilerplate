@@ -1,4 +1,4 @@
-Node-custom-boilerplate
+node-arget-boilerplate
 =======================
 Custom Boilerplate for node.js inspired by node-boilerplate
 
@@ -18,7 +18,7 @@ Custom Boilerplate for node.js inspired by node-boilerplate
 
 ####1. Clone the repository and execute the shell
 
-		git clone https://github.com/Argetloum/Node-custom-boilerplate.git mynewproject
+		git clone https://github.com/Argetloum/node-arget-boilerplate.git mynewproject
 		cd mynewproject
 		./initproject.sh
 
