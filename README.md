@@ -1,16 +1,16 @@
 Node-custom-boilerplate
 =======================
-#####Custom Boilerplate for node.js inspired by node-boilerplate
+**Custom Boilerplate for node.js inspired by node-boilerplate
 *Requires Node v0.6.6 (or newer)*
 
-He use some usefull dependencies :
+**He use some usefull dependencies :
   - connect
   - express
   - jade
   - mongoose
   - socket.io
 
-And some usefull libs :
+**And some usefull libs :
   - grunt.js
   - less
 
