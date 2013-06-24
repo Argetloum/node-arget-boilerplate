@@ -1,9 +1,10 @@
-node-arget-boilerplate
+Node Arget Boilerplate
 =======================
 Custom Boilerplate for node.js inspired by node-boilerplate
+Regardless to Node Boilerplate, we use the same dependencies, but adding some libs usefull in every projects !
 
 
-**He use some usefull dependencies :**
+**Dependencies :**
   - connect
   - express
   - jade
