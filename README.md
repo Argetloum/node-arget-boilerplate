@@ -1,9 +1,7 @@
 Node-custom-boilerplate
 =======================
+#####Custom Boilerplate for node.js inspired by node-boilerplate
 *Requires Node v0.6.6 (or newer)*
-
-
-Custom Boilerplate for node.js inspired by node-boilerplate
 
 He use some usefull dependencies :
   - connect
@@ -16,8 +14,7 @@ And some usefull libs :
   - grunt.js
   - less
 
-
-##Start a project:
+##Start a project
 
 ####1. Clone the repository and execute the shell
 
@@ -29,7 +26,7 @@ This will copy down all of the boilerplate files, organize them appropriately an
 
 ####2. Do npm install to install the dependencies
 
-    sudo npm install
+    		sudo npm install
 
 ####3. Run the boilerplate template app:
 
