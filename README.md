@@ -13,7 +13,8 @@ Regardless to Node Boilerplate, we use the same dependencies, but adding some li
 
 **And some usefull libs :**
   - grunt.js
-  - less
+  - less css
+  - lesshat.less
 
 ##Start a project
 
