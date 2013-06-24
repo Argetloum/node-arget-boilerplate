@@ -1,6 +1,7 @@
 Node-custom-boilerplate
 =======================
 **Custom Boilerplate for node.js inspired by node-boilerplate**
+
 *Requires Node v0.6.6 (or newer)*
 
 **He use some usefull dependencies :**
