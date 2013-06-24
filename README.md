@@ -5,6 +5,17 @@ Node-custom-boilerplate
 
 Custom Boilerplate for node.js inspired by node-boilerplate
 
+He use some usefull dependencies :
+  - connect
+  - express
+  - jade
+  - mongoose
+  - socket.io
+
+And some usefull libs :
+  - grunt.js
+  - less
+
 
 #Start a project:
 
