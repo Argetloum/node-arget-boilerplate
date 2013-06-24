@@ -28,7 +28,7 @@ This will copy down all of the boilerplate files, organize them appropriately an
 
 ####2. Do npm install to install the dependencies
 
-    	sudo npm install
+	sudo npm install
 
 ####3. Run the boilerplate template app:
 
