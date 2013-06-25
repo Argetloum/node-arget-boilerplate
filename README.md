@@ -16,6 +16,7 @@ Regardless to Node Boilerplate, we use the same dependencies, but adding some li
   - grunt.js
   - less css
   - lesshat.less
+  - Twitter bootstrap
 
 ##Start a project
 
