@@ -34,4 +34,22 @@ This will copy down all of the boilerplate files, organize them appropriately an
 **3. Run the boilerplate template app**
 
 	node app.js
+	
+## Structure
+
+	|
+	|- app
+	|   |- controllers
+	|   |- models
+	|   |- views
+	|
+	|- config
+	|- lib
+	|- public
+	|   |- css
+	|   |- img
+	|   |- js
+	|   |- less
+	|
+	|- test
 
