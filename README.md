@@ -37,7 +37,6 @@ This will copy down all of the boilerplate files, organize them appropriately an
 	
 ## Structure
 
-	|
 	|- app
 	|   |- controllers
 	|   |- models
