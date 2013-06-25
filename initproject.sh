@@ -27,6 +27,9 @@ cp ./templates/views/500.jade ./app/views/500.jade
 cp ./templates/views/404.jade ./app/views/404.jade
 cp ./templates/views/index.jade ./app/views/index.jade
 cp ./templates/views/layout.jade ./app/views/layout.jade
+cp ./templates/less/elements.less ./public/less/elements.less
+cp ./templates/less/lesshat.less ./public/less/lesshat.less
+cp ./templates/less/style.less ./public/less/style.less
 cp ./templates/js/script.js ./public/js/script.js
 # TODO copy over the models
 
