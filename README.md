@@ -33,5 +33,5 @@ This will copy down all of the boilerplate files, organize them appropriately an
 
 **3. Run the boilerplate template app**
 
-	node server.js
+	node app.js
 
