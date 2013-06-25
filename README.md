@@ -1,6 +1,6 @@
 Node Arget Boilerplate
 =======================
-Custom Boilerplate for node.js inspired by node-boilerplate(https://github.com/robrighter/node-boilerplate)
+Custom Boilerplate for node.js inspired by [node-boilerplate](https://github.com/robrighter/node-boilerplate)
 Regardless to Node Boilerplate, we use the same dependencies, but adding some libs usefull in every projects !
 
 
