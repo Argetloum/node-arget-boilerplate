@@ -5,11 +5,11 @@ Regardless to Node Boilerplate, we use the same dependencies, but adding some li
 
 
 **Dependencies :**
-  - connect *2.7.6*
-  - express *3.0.6*
-  - jade *0.31.2*
-  - mongoose *3.5.15*
-  - socket.io *0.9.2*
+  - connect *(2.7.6)*
+  - express *(3.0.6)*
+  - jade *(0.31.2)*
+  - mongoose *(3.5.15)*
+  - socket.io *(0.9.2)*
 
 **And some usefull libs :**
   - grunt.js
